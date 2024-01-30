@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+header,
+footer {
+    border: 5px solid;
+    height: 100px;
+}
+
+.hundred {
+    border: 5px solid;
+    height: 150px;
+}
+
+.forty,
+.sixty {
+    height: 200px;
+    float: left;
+    border: 5px solid;
+}
+
+.forty {
+    width: 40%;
+}
+
+.sixty {
+    width: 60%;
+}
+
+footer {
+    clear: both;
+}
+
+.forty {
+    width: 40%;
+}
+
+.sixty {
+    width: 60%;
+}
+
+footer {
+    clear: both;
+}
